@@ -201,3 +201,6 @@ This repository serves as the official landing page for SortPlaces. The software
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of SortPlaces today!**
+
+---
+**Last updated:** 2026-11-05 23:16:54 UTC
