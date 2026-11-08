@@ -203,4 +203,4 @@ This repository serves as the official landing page for SortPlaces. The software
 **Get the most recent version of SortPlaces today!**
 
 ---
-**Last updated:** 2026-11-08 02:02:22 UTC
+**Last updated:** 2026-11-08 09:51:38 UTC
